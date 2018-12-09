@@ -1,7 +1,6 @@
-XXXXXXXXXXX
-YYYYYYYYYYY
-AAAAAAAAAAA
-BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+@@@@@@@@@@@
+!!!!!!!!!!!
+###################################
 CCCCCCCCCCC
 DDDDDDDDDDD
 @@@@@@@@@@@
